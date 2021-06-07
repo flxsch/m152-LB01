@@ -2,9 +2,6 @@
 * {
     box-sizing: border-box;
 }
-body {
-    font-family: 'Sintony', sans-serif;
-}
 
 .carousel {
     width: 75%;
