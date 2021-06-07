@@ -1,0 +1,14 @@
+.background-image{
+    background: url("../media/img/skatepark.jpg") no-repeat center fixed;
+    background-size: auto;
+}
+
+.navbar{
+    backdrop-filter: blur(3px);
+    background-color: rgba(41, 43, 44, 0.5);
+}
+
+.container {
+    margin-top: 2.5%;
+    margin-bottom: 5%;
+}
